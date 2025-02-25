@@ -2,7 +2,8 @@
 ## 📌 Overview
 This project is a Movie Recommender System that suggests movies based on user preferences. It utilizes machine learning techniques to analyze movie datasets and generate personalized recommendations.
 
-![Screenshot (206)](https://github.com/user-attachments/assets/712ed5aa-3c5f-4e4c-a83e-9afb6c1a3962)
+![Screenshot (206)](https://github.com/user-attachments/assets/f22676e3-8013-4d08-9648-f2c0bedd02a8)
+
 
 ## 🚀 Features
 - **Content-Based Filtering**: Recommends movies based on similarities in features like genre, cast, and director.
